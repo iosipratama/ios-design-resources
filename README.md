@@ -2,7 +2,7 @@
 
 Links and tools I personally use for designing iOS apps.
 
-## Table of Contents
+### Table of Contents
 - [Design Guidelines](#design-guidelines)
 - [UI Kits & Templates](#ui-kits--templates)
 - [Inspiration](#inspiration)
@@ -14,28 +14,30 @@ Links and tools I personally use for designing iOS apps.
 
 ---
 
-## Foundation
+### Foundation
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [iOS Libraries for Figma](https://www.figma.com/@apple)
 - [WWDC Design Videos](https://developer.apple.com/videos/design/)
 
-
-## Inspiration
+### References
 - [Mobbin](https://mobbin.com/)
 - [Pttrns](https://pttrns.com/)
+- [Paywall](https://www.paywallscreens.com/)
 
-## Icons & Assets
+### Icons & Assets
 - [SF Symbols](https://developer.apple.com/sf-symbols/)
 
-## Tools
+### Tools
 - [Figma](https://www.figma.com/)
-- [Sketch](https://www.sketch.com/)
+- [Play] (https://www.createwithplay.com/)
 
 ## Articles & Tutorials
 - [Design+Code iOS Design](https://designcode.io/ios-design)
+
 
 ## Videos
 
 
 ## Other Resources
 - [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui) 
+
