@@ -1,7 +1,6 @@
 # iOS Design Resources
 
-A curated list of useful links and resources for designing iOS apps.  
-Feel free to contribute or suggest new resources!
+Links and tools I personally use for designing iOS apps.
 
 ## Table of Contents
 - [Design Guidelines](#design-guidelines)
@@ -15,11 +14,11 @@ Feel free to contribute or suggest new resources!
 
 ---
 
-## Design Guidelines
+## Foundation
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [iOS Libraries for Figma](https://www.figma.com/@apple)
+- [WWDC Design Videos](https://developer.apple.com/videos/design/)
 
-## UI Kits & Templates
-- [iOS Resources for Figma](https://www.figma.com/@apple)
 
 ## Inspiration
 - [Mobbin](https://mobbin.com/)
@@ -36,7 +35,7 @@ Feel free to contribute or suggest new resources!
 - [Design+Code iOS Design](https://designcode.io/ios-design)
 
 ## Videos
-- [WWDC Design Videos](https://developer.apple.com/videos/design/)
+
 
 ## Other Resources
 - [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui) 
