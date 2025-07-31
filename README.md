@@ -33,10 +33,12 @@ Feel free to contribute or suggest new resources!
 - [Sketch](https://www.sketch.com/)
 
 ## Articles & Tutorials
+- [Depp Dive iOS 26 & SwiftUI9 on Udemy](https://www.udemy.com/course/deep-dive-ios-16-swiftui-programming/): cheap, complete, and high-quality ios dev course. 
 - [Design+Code iOS Design](https://designcode.io/ios-design)
+- [Big Mountain Studio](https://www.bigmountainstudio.com/): a SwiftUI visual reference book. 
 
 ## Videos
-- [WWDC Design Videos](https://developer.apple.com/videos/design/)
+- [WWDC Design Videos](https://developer.apple.com/videos/design/):
 
 ## Other Resources
 - [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui) 
