@@ -11,7 +11,6 @@ Links and tools I personally use for designing iOS apps.
 
 ## Inspiration
 - [Mobbin](https://mobbin.com/)
-- [Pttrns](https://pttrns.com/)
 
 ## Icons & Assets
 - [SF Symbols](https://developer.apple.com/sf-symbols/)
@@ -22,10 +21,11 @@ Links and tools I personally use for designing iOS apps.
 
 ## Articles & Tutorials
 - [Design+Code iOS Design](https://designcode.io/ios-design)
-- [SwiftUI Visual Reference Books]()
+- [SwiftUI Visual Reference Books](https://www.bigmountainstudio.com/)
 
 ## Videos
 - [WWDC Design Videos](https://developer.apple.com/videos/design/)
+- [Deev Dive iOS 26 & SwiftUI 6](https://www.udemy.com/course/deep-dive-ios-16-swiftui-programming/): super affordable yet comprehenvise course on Udemy. 
 
 ### References
 - [Mobbin](https://mobbin.com/) - iOS app design patterns
@@ -34,7 +34,6 @@ Links and tools I personally use for designing iOS apps.
 
 ### Icons & Assets
 - [SF Symbols](https://developer.apple.com/sf-symbols/)
-- 
 
 ### Tools
 - [Figma](https://www.figma.com/) - primary design tool. 
