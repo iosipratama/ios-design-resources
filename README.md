@@ -37,7 +37,7 @@ Real apps. Real flows. Real design decisions.
 - [Spotted in Prod](https://www.spottedinprod.com/) — Unusual and interesting UI details spotted in real, live apps.
 - [UI Sources](https://www.uisources.com/) — Recorded real user flows from popular apps — actual animations and swipes, not just static screenshots. Free & paid.
 - [Page Flows](https://pageflows.com/) — Recorded user flow videos from onboarding, checkout, and key screens in dozens of popular apps. Paid.
-- [Screenlane](https://screenlane.com/) — Curated mobile design inspiration filterable by screen type. A useful archive even if no longer actively updated.
+- [Screenlane](https://screenlane.com/) — Curated mobile design inspiration filterable by screen type and category.
 - [Dribbble](https://dribbble.com/) — Not always realistic, but great for visual direction and early concept exploration.
 
 ---
@@ -46,7 +46,7 @@ Real apps. Real flows. Real design decisions.
 
 Essential when designing for subscriptions.
 
-- [PaywallPro](https://www.paywallpro.app/) — 10,000+ iOS paywall screenshots with pricing models, copy strategies, and conversion signals from top apps.
+- [PaywallPro](https://www.paywallpro.app/) — 26,000+ iOS paywall screenshots with pricing models, copy strategies, and conversion signals from top apps.
 - [Paywall Screens](https://www.paywallscreens.com/) — Curated paywall designs from real apps.
 - [Mobbin Paywall Screens](https://mobbin.com/explore/mobile/screens/subscription-paywall) — Paywall and subscription screens filtered directly in Mobbin.
 
@@ -68,8 +68,7 @@ For when static mocks aren't enough.
 
 - [ProtoPie](https://www.protopie.io/) — The gold standard for advanced iOS interactions and micro-animations. Sensor-aware (gyroscope, camera, touch). Used by Spotify, Amazon, Microsoft. Paid.
 - [Origami Studio](https://origami.design/) — Meta's free, powerful prototyping tool built for complex iOS interactions. Steep learning curve, deep results. Free.
-- [Principle](https://principleformac.com/) — Fast, timeline-based animations with a Principle Mirror app for live iPhone preview. Mac-only. Paid.
-- [Play](https://www.createwithplay.com/) — Prototype directly on your iPhone without needing a Mac. Great for testing real-device feel. Free & paid.
+- [Principle](https://principleformac.com/) — Fast, timeline-based animations with a Principle Mirror app for live iPhone preview. Mac-only. $129 one-time.
 - [Framer](https://www.framer.com/) — Design + code prototyping with React component support. Great for hi-fi interactive demos. Free & paid.
 
 ---
@@ -89,7 +88,6 @@ Show your work in context.
 - [MockUPhone](https://mockuphone.com/) — Free browser-based device frame wrapper. Fast, no account required.
 - [Device Frames](https://deviceframes.com/) — 3D device mockup generator for iPhone and iPad, browser-based.
 - [AppScreens](https://appscreens.com/) — Create professional App Store screenshots with device frames and copy overlays. Free & paid.
-- [Previewed](https://previewed.app/) — Online mockup generator with iPhone, iPad, and Mac device templates. Free & paid.
 - [Zeplin](https://zeplin.io/) — Design handoff that generates iOS measurements, UIColor values, and asset exports from Figma/Sketch files. Paid (free tier available).
 
 ---
