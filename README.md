@@ -11,7 +11,7 @@ These are the absolute must-haves. Bookmark all of them before anything else.
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) — The bible for iOS design. Covers layout, controls, patterns, and principles across every Apple platform. Re-read it every year.
 - [Apple Design Resources](https://developer.apple.com/design/resources/) — Official Figma kits, app icon templates, device frames, and SF Symbols — straight from Apple.
 - [SF Symbols](https://developer.apple.com/sf-symbols/) — 6,000+ symbols designed to work seamlessly with iOS. The app lets you browse, customize, and export at any weight or scale.
-- [WWDC Design Sessions](https://developer.apple.com/videos/design/) — Apple designers explaining the thinking behind iOS design decisions. Free, searchable back to 2014.
+- [WWDC Design Sessions](https://developer.apple.com/videos/design/) — Apple designers explaining the thinking behind iOS design decisions. Free, searchable back to 2014. → [Best sessions curated here](wwdc-design-sessions.md)
 
 ---
 
