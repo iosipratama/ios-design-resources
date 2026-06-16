@@ -128,3 +128,6 @@ Articles, courses, and videos worth your time.
 ## People to Follow
 
 - [Raffi](https://x.com/raffichill) — iOS designer sharing sharp takes on mobile UI and product design.
+- [Meng To](https://x.com/MengTo) — Founder of Design+Code. Actively posts on iOS design, Figma, SwiftUI, and where design and AI intersect.
+- [Jordan Singer](https://x.com/jsngr) — Building AI-first design tools at Mainframe. Posts sharp thinking on the future of iOS design and design tooling.
+- [Marc Edwards](https://x.com/marcedwards) — Founder of Bjango. One of the deepest experts on iOS/macOS design, icon craft, and design tools. Also active on [Bluesky](https://bsky.app/profile/marc.bjango.com).
