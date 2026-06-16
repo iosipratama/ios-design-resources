@@ -28,7 +28,7 @@ These are the absolute must-haves. Bookmark all of them before anything else.
 
 ## Inspiration & Pattern References
 
-Real apps. Real flows. Real design decisions.
+Real apps. Real flows. Real design decisions. → [Best-designed iOS apps to study](best-ios-apps.md)
 
 - [Mobbin](https://mobbin.com/) — 400,000+ iOS screenshots from the world's best apps, searchable by screen type, component, and flow. The go-to for pattern research. Free & paid.
 - [Refero](https://refero.design/apps) — AI-powered search across real product screens. Great when you know what you're looking for.
@@ -75,7 +75,7 @@ For when static mocks aren't enough.
 
 ## Design Tools
 
-- [Figma](https://www.figma.com/) — The primary tool for most iOS designers. Collaborative, cross-platform, with a huge iOS component ecosystem.
+- [Figma](https://www.figma.com/) — The primary tool for most iOS designers. Collaborative, cross-platform, with a huge iOS component ecosystem. → [Best Figma plugins for iOS](figma-plugins.md)
 - [Sketch](https://www.sketch.com/) — Mac-native with a deep iOS plugin ecosystem. Still the preference for many native iOS designers. Paid.
 
 ---
@@ -122,6 +122,38 @@ Articles, courses, and videos worth your time.
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) — The best free structured course on SwiftUI from scratch.
 - [Kavsoft on YouTube](https://www.youtube.com/@Kavsoft) — SwiftUI animation and UI tutorials. Beautiful component builds worth watching even if you don't code. Free.
 - [iOS App Design on Udemy](https://www.udemy.com/course/app-design-uiux-plus-ios-development/) — Affordable course covering iOS UI/UX design and development together.
+
+---
+
+## App Store Assets
+
+Designing the screenshots and preview video that sell your app.
+
+- [AppScreens](https://appscreens.com/) — Create App Store screenshots with device frames and copy overlays. Supports all required sizes. Free & paid.
+- [Rotato](https://rotato.app/) — 3D animated iPhone mockups and marketing videos. The best output quality for preview videos. Paid (~$49/yr).
+- [ScreenshotWhale](https://screenshotwhale.com/) — Gallery of App Store screenshots from top apps. Great for studying how successful apps present their features.
+- [Device Specs Reference](device-specs.md) — Required screenshot sizes, safe areas, and all current iPhone/iPad dimensions. → [Open reference](device-specs.md)
+
+**Required screenshot sizes (App Store Connect):**
+- iPhone: **1320 × 2868 px** (6.9" iPhone, portrait)
+- iPad: **2064 × 2752 px** (13" iPad Pro, portrait)
+- Preview video: 15–30 sec, max 500 MB, same resolution as screenshots
+
+---
+
+## Newsletters
+
+- [iOS Dev Weekly](https://iosdevweekly.com/) — The best weekly roundup of iOS design and development links, curated by Dave Verwer. Free.
+- [Sidebar](https://sidebar.io/) — Five design links every weekday. Short and high-signal. Free.
+- [Dense Discovery](https://www.densediscovery.com/) — Weekly newsletter on design, tech, and culture. Broader than iOS but consistently high quality. Free.
+
+---
+
+## Podcasts
+
+- [Under the Radar](https://www.relay.fm/radar) — Marco Arment and David Smith talk indie iOS development: design decisions, business, and the realities of shipping apps. Never longer than 30 minutes. Essential.
+- [AppStories](https://appstories.net/) — Federico Viticci and John Voorhees cover the design and story behind the best apps. Great for understanding what makes an app worth using.
+- [The Talk Show](https://www.daringfireball.net/thetalkshow/) — John Gruber's long-form conversations on Apple, design, and the industry. Good for thinking about the bigger picture of where iOS design is going.
 
 ---
 
